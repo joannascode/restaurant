@@ -248,3 +248,29 @@ nav ul li a {
     width: 30px;
     border-radius: 50%;
 }
+
+
+/**** 3 box difficult ***/
+
+.three-box-dif {
+    background-color: #d0d0d0;
+    height: 550px;
+}
+
+.grey-min-box {
+    background-color: #41403f;
+    height: 350px;
+    display: inline-block;
+    width: 180px !important;
+}
+
+.white-min-box {
+    background-color: white;
+    height: 255px;
+    width: 450px !important;
+    display: inline-block;
+    z-index: 100;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 47px;
+}
